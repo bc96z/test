@@ -48,3 +48,9 @@ def process_folder(folder):
 # 執行轉換
 process_folder(root_folder)
 print("批量轉換完成！")
+
+
+
+
+
+
