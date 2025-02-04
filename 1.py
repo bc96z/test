@@ -44,7 +44,7 @@ def process_folder(folder):
         for file in files:
             file_path = os.path.join(root, file)
             convert_audio_to_mp3(file_path)
-x=1
+x=1999
 # 執行轉換
 process_folder(root_folder)
 print("批量轉換完成！")
